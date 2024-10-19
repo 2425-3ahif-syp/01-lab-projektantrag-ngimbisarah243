@@ -1,4 +1,52 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
 
-image::img.png[]
+
+= Projektantrag
+
+== DivaDialogue
+
+==== Eine Chat-Plattform nur für Frauen
+
+=== Projektbeschreibung
+
+Der persönliche Austausch spielt in einer zunehmend digitalen Welt eine große Rolle für das Wohlbefinden und die soziale Verbindung von Frauen.
+
+*Diva Dialogue* zielt darauf ab, eine moderne, sichere und benutzerfreundliche Chat-Plattform *exklusiv für Frauen* zu entwickeln.
+Diese Plattform bietet Frauen die Möglichkeit, anonym oder öffentlich in Echtzeit zu kommunizieren, Erfahrungen zu teilen, Unterstützung zu erhalten und neue Netzwerke zu knüpfen.
+
+Die Plattform wird als mobile App entwickelt, die sich auf die Bedürfnisse und Interessen von Frauen aller Altersgruppen und Hintergründe fokussiert.
+Ein zentraler Aspekt ist die *Personalisierung des Chats*, die sich auf verschiedene Lebensphasen und Themen anpasst, die Frauen betreffen.
+Es wird sowohl private als auch öffentliche Chat-Möglichkeiten geben, um gezielte Unterhaltungen zu fördern, sowie Gruppen für spezifische Themen, wie Karriere, persönliche Entwicklung, Gesundheit oder Familie.
+
+Der Aspekt der *Sicherheit und Privatsphäre* steht dabei im Vordergrund.
+Um einen geschützten Raum für alle Nutzerinnen zu gewährleisten, wird eine *Verifikation per Ausweis* erforderlich sein, um sicherzustellen, dass nur Frauen Zugang zur Plattform haben.
+Ergänzend sorgen integrierte Moderationsfunktionen und strenge Datenschutzrichtlinien dafür, dass sich Frauen jederzeit sicher und verstanden fühlen können.
+
+=== Aufgabenbeschreibung
+
+* *Sarah*: Entwicklung & Programmierung – Implementierung der App, einschließlich Backend, Frontend und Sicherheitsfunktionen.
+* *Anita*: UI & UX Design – Gestaltung einer benutzerfreundlichen und ansprechenden Oberfläche, die auf die Präferenzen von Frauen zugeschnitten ist.
+* *Ketsia*: Recherche & Management – Analyse der Bedürfnisse von Frauen in verschiedenen Lebenslagen, Projektkoordination und strategische Ausrichtung.
+* *David*: Datenverarbeitung & Optimierung – Optimierung der Plattform, Datenverarbeitung und Verbesserung der Chat-Funktionalitäten.
+
+=== Projektnutzen
+
+DivaDialogue bietet Frauen einen sicheren Raum, in dem sie offen kommunizieren, Unterstützung finden und sich vernetzen können.
+Die Plattform bietet:
+
+* *Sichere und anonyme Gespräche* zu sensiblen Themen, wie Karriereentwicklung, persönliche Gesundheit, Beziehungen oder gesellschaftliche Herausforderungen.
+* *Themenspezifische Gruppen* für Frauen, die sich über ähnliche Interessen oder Lebensphasen austauschen möchten.
+* *Automatische Moderation und Datenschutz*, um die Sicherheit der Nutzerinnen zu gewährleisten.
+* *Förderung von Selbstvertrauen, Vernetzung und gegenseitiger Unterstützung* durch eine freundliche und respektvolle Community von Frauen für Frauen.
+
+=== Konsequenzen bei Nichtdurchführung
+
+* Frauen könnten weiterhin mit allgemeinen Plattformen interagieren, die nicht speziell auf ihre Bedürfnisse zugeschnitten sind, was zu weniger sicherem Austausch führt.
+* Der Mangel an sicheren, frauenorientierten Kommunikationsräumen könnte dazu führen, dass sensible Themen nicht offen angesprochen werden können.
+* Eine verpasste Chance, Frauen eine Plattform zu bieten, auf der sie sich gegenseitig unterstützen und ermutigen können, ihre Ziele zu erreichen.
+
+
+=== Personelle und finanzielle Rahmenbedingungen
+* *Teamgröße*: 4 Hauptentwickler:innen, bestehend aus Designerinnen, Entwickler:innen und Managerinnen.
+* *Budget*: Die initiale Entwicklung der Plattform erfordert ein Budget von ca. 50.000 €, das für technische Entwicklung, Design, Infrastruktur und Marketing verwendet wird.
+            Ein besonderer Fokus wird auf den Schutz der Privatsphäre und die Sicherheit der Plattform gelegt.
+
