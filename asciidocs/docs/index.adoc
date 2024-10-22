@@ -21,12 +21,6 @@ Der Aspekt der *Sicherheit und Privatsphäre* steht dabei im Vordergrund.
 Um einen geschützten Raum für alle Nutzerinnen zu gewährleisten, wird eine *Verifikation per Ausweis* erforderlich sein, um sicherzustellen, dass nur Frauen Zugang zur Plattform haben.
 Ergänzend sorgen integrierte Moderationsfunktionen und strenge Datenschutzrichtlinien dafür, dass sich Frauen jederzeit sicher und verstanden fühlen können.
 
-=== Aufgabenbeschreibung
-
-* *Sarah*: Entwicklung & Programmierung – Implementierung der App, einschließlich Backend, Frontend und Sicherheitsfunktionen.
-* *Anita*: UI & UX Design – Gestaltung einer benutzerfreundlichen und ansprechenden Oberfläche, die auf die Präferenzen von Frauen zugeschnitten ist.
-* *Ketsia*: Recherche & Management – Analyse der Bedürfnisse von Frauen in verschiedenen Lebenslagen, Projektkoordination und strategische Ausrichtung.
-* *David*: Datenverarbeitung & Optimierung – Optimierung der Plattform, Datenverarbeitung und Verbesserung der Chat-Funktionalitäten.
 
 === Projektnutzen
 
