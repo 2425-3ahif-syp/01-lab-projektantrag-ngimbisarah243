@@ -39,8 +39,5 @@ Die Plattform bietet:
 * Eine verpasste Chance, Frauen eine Plattform zu bieten, auf der sie sich gegenseitig unterstützen und ermutigen können, ihre Ziele zu erreichen.
 
 
-=== Personelle und finanzielle Rahmenbedingungen
-* *Teamgröße*: 4 Hauptentwickler:innen, bestehend aus Designerinnen, Entwickler:innen und Managerinnen.
-* *Budget*: Die initiale Entwicklung der Plattform erfordert ein Budget von ca. 50.000 €, das für technische Entwicklung, Design, Infrastruktur und Marketing verwendet wird.
-            Ein besonderer Fokus wird auf den Schutz der Privatsphäre und die Sicherheit der Plattform gelegt.
+
 
